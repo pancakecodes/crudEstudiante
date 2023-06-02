@@ -33,17 +33,5 @@ El proyecto se organizará en las siguientes carpetas:
 
     backend/: Contendrá el código fuente del backend desarrollado en .NET Core.
     frontend/: Contendrá el código fuente del frontend desarrollado en React.
-    database/: Contendrá los scripts y archivos relacionados con la base de datos SQL Server.
 
-Instrucciones de Ejecución
 
-Para ejecutar el proyecto, sigue los siguientes pasos:
-
-    Clona el repositorio a tu máquina local.
-    Configura la base de datos SQL Server y asegúrate de tener una instancia disponible.
-    Ejecuta los scripts de la carpeta database/ para crear la base de datos y las tablas necesarias.
-    Configura la conexión a la base de datos en el backend.
-    Ejecuta el backend utilizando el entorno de desarrollo adecuado.
-    Configura la conexión al backend en el frontend.
-    Instala las dependencias del frontend y ejecuta el frontend en modo de desarrollo.
-    Accede a la aplicación web a través del navegador y comienza a gestionar estudiantes y calificaciones.
