@@ -1,12 +1,6 @@
 # crudEstudiante
 Sistema de Gestión de Estudiantes y Calificaciones
 
-Este proyecto consiste en desarrollar una aplicación web para ayudar a Pedro, un profesor que imparte las 4 materias básicas en un colegio, a gestionar sus estudiantes y calificaciones. La aplicación estará basada en una arquitectura de tres capas utilizando .NET Core para el backend, React para el frontend y SQL Server como base de datos.
-Planteamiento del Problema
-
-Actualmente, Pedro lleva el control de sus estudiantes y calificaciones de manera manual con lápiz y papel, lo cual dificulta su trabajo. El objetivo es desarrollar una solución que permita a Pedro gestionar sus estudiantes y calificaciones de forma más eficiente.
-Resolución del Problema
-
 La aplicación web a desarrollar debe cumplir con los siguientes requisitos:
 
     Gestión de Estudiantes:
